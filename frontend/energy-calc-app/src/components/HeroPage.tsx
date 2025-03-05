@@ -13,7 +13,7 @@ function HeroPage() {
             <h1 className="mt-2 ml-[-5px] text-[5.5em] text-font-black font-semibold leading-[90px]">
               Optimize energy, <br /> Maximize{" "}
               <span className="bg-gradient-to-r from-[#04B1FB] to-[#555F9B] bg-clip-text text-transparent">
-                savings
+                savings.
               </span>
             </h1>
             <p className="mt-10 text-[1.5em] w-2/3">
